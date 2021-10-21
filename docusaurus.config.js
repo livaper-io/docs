@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.png',
   organizationName: 'livaper-docs', // Usually your GitHub org/user name.
   projectName: 'livaper-docs', // Usually your repo name.
-
   presets: [
     [
       '@docusaurus/preset-classic',
