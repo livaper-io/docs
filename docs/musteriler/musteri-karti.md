@@ -4,25 +4,22 @@ sidebar_position: 2
 
 # Müşteri Kartı
 
-Documents are **groups of pages** connected through:
+:::tip BİLGİ
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+Müşteri kartınızda tüm bilgilere ulaşabilirsiniz. Keyfini çıkarın!
 
-## Create your first Doc
+::::
 
-Create a markdown file at `docs/hello.md`:
+![Müşteri Kartı](/img/tutorial/customer-card.png)
 
-```md title="docs/hello.md"
-# Hello
 
-This is my **first Docusaurus document**!
-```
+## Muhasebe Bölümü
 
-A new document is now available at `http://localhost:3000/docs/hello`.
+Müşteri kartınızın en üst kısmında müşterinizle ilgili finansal durumu görebilirsiniz. Bu zamana kadar ne kadar ödeme yaptığı ve kalan bakiyesine ulaşabilirsiniz. İşlemler sekmesinde daha detaylı ödeme bilgileri bulunmaktadır.
 
-## Configure the Sidebar
+
+
+## İşlemler Sekmesi
 
 Docusaurus automatically **creates a sidebar** from the `docs` folder.
 
@@ -34,7 +31,7 @@ sidebar_label: 'Hi!'
 sidebar_position: 3
 ---
 
-# Hello
+# Helloxxx
 
 This is my **first Docusaurus document**!
 ```
@@ -53,3 +50,6 @@ module.exports = {
   ],
 };
 ```
+## Bildirimler Sekmesi
+
+## Etiketler

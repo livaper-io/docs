@@ -2,29 +2,28 @@
 sidebar_position: 1
 ---
 
-# Müşteri Oluştur
->:zap:        **Eksiksiz Doldurun!**
+# Müşteri Oluşturma
+
+:::info BİLGİ
+
+Unutmayın müşteri bilgilerinizin tam doldurulması Livaper kullanıyım deneyimini yükseltir.
+
+:::
 
 ![Yeni Müşteri](/img/tutorial/new-customer.png)
 
-Müşteri oluştur menüsünden müşteri kartınızı oluşturabilirsiniz. Bilgieri eksiksiz doldurmanız en iyi kullanıcı deneyimini sağlayacaktır.
+Müşteri oluştur menüsünden müşteri kartınızı oluşturabilirsiniz. Bilgileri eksiksiz doldurmanız en iyi kullanıcı deneyimini sağlayacaktır.
+Dikkat etmeniz gereken değerler;
+
+
+ - Kimlik No: Müşterinizin vatandaşlık numarası
+ - Kod: Cep telefonu alan kodu
+ - Telefon: Cep telefonu (sms gönderimlerinde burası dikkate alınacaktır)
+ - Email: Müşterinizin e-mail adresi (email gönderimlerinde burası dikkate alınacaktır)
 
 ## Hızlı Müşteri Oluşturma
 
-Create a file at `src/pages/my-react-page.js`:
+![Hızlı Müşteri](/img/tutorial/quickly-customer.png)
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at `http://localhost:3000/my-react-page`.
+Üst menüde bulunan `Yeni Müşteri` butonunu kullanarak hangi sayfada olursanız olun hızlıca müşteri oluşturabilirsiniz.
