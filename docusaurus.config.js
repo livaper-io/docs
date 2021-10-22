@@ -59,6 +59,16 @@ const config = {
             label: 'Ücretsiz Üye Ol',
             position: 'right',
           },
+          {
+            href: 'https://livaper.com/',
+            label: 'Livaper',
+            position: 'right',
+          },
+          {
+            href: 'https://livaper.sleekplan.app/',
+            label: 'Öneride Bulun',
+            position: 'right',
+          },
         ],
       },
       footer: {

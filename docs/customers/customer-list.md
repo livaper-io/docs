@@ -7,3 +7,10 @@ Tüm müşterilerinizi bu listede görebilirsiniz. Hızlı arama bölümünden i
 
 
 ![Müşteri Listesi](/img/tutorial/customer-list.png)
+
+
+:::tip BİLGİ
+
+Unutmayın aynı zamanda sağ üstte bulunan `Müşteri Ekle` butonu ile hızlı müşteri oluşturabilirsiniz.
+
+::::

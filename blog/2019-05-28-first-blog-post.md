@@ -2,10 +2,10 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
+  name: Ufuk Çam
+  title: Livaper Team
   url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  image_url: https://www.livaper.com/images/uc.jpeg
 tags: [hola, docusaurus]
 ---
 
