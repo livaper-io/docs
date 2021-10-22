@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Livaper Dokümantasyon',
+  title: 'Dokümantasyon',
   tagline: 'Müşteri ve Randevu Takibinin En Kolay Yolu',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.livaper.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'livaper-docs', // Usually your GitHub org/user name.
-  projectName: 'livaper-docs', // Usually your repo name.
+  organizationName: 'Livaper',
+  projectName: 'livaper-docs',
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -22,14 +22,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/livaper-io/docs/tree/master/docs',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/livaper-io/docs/tree/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
