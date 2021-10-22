@@ -11,3 +11,5 @@ Seans taksitlerinin tahsilatları için Tahsilat kutusunun altında bulunan `Pak
 
 ![Takvim-Detay](/img/tutorial/event-details.png)
 
+Randevuya gelen müşterilerinize bu ekrandayken ürün ve hizmet satabilirsiniz. Bu işlemler için `Hizmet Ekle` ve `Ürün Ekle` butonlarını kullanınız.
+

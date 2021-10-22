@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Livaper',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/undraw_online_test_gba7.svg').default,
     description: (
       <>
         Müşteri ve Randevu takibinin en kolay yolu Livaper.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Dokümanlar',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/undraw_Documents_re_isxv.svg').default,
     description: (
       <>
         Kullanımı çok kolay! Yardıma ihtiyacınız olduğu anda yardım dokümanlarını inceleyebilirsiniz.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Şimdi Dene!',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/undraw_feeling_proud_qne1.svg').default,
     description: (
       <>
         Hemen <code>Livaper'ı</code> 7 gün boyunca ücretsiz kullanmaya başlayın. Kredi kartı gerekmez!
