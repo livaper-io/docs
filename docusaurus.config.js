@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Dokümantasyon',
+  title: 'Livaper',
   tagline: 'Müşteri ve Randevu Takibinin En Kolay Yolu',
   url: 'https://docs.livaper.com',
   baseUrl: '/',
@@ -51,7 +51,7 @@ const config = {
             position: 'left',
             label: 'Dokümantasyon',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          /*{to: '/blog', label: 'Blog', position: 'left'}, */
           {
             href: 'https://app.livaper.com/register',
             label: 'Ücretsiz Üye Ol',
