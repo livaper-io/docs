@@ -6,7 +6,7 @@ sidebar_position: 1
 
 :::info BİLGİ
 
-Unutmayın müşteri bilgilerinizin tam doldurulması Livaper kullanıyım deneyimini yükseltir.
+Unutmayın müşteri bilgilerinizin tam doldurulması Livaper kullanım deneyimini yükseltir.
 
 :::
 
