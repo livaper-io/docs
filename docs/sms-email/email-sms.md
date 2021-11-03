@@ -30,6 +30,12 @@ Müşteri deneyimini en üst seviyede tutmak için pazarlama aktivitelerini kull
 
 ### Toplu SMS Gönderme
 
+:::info BİLGİ
+
+Yeni abone olan üyelerimize 100 SMS kredisi verilir. SMS Gönderimine devam etmeniz için `Paket Satın Al` menüsünden yeni SMS paketi satın almanız gerekir.
+
+::::
+
 `Pazarlama > SMS Pazarlama > Toplu SMS Gönder` butonu ile açılan pencereden sms gönderim işlemi yapabilirsiniz. 
 
 - **Pazarlama Adı:** İstediğiniz bir isim girebilirsiniz.
@@ -46,3 +52,16 @@ Dilerseniz `Kopyala` butonu ile aynı pazarlama aktivitesini kopyalayabilirsiniz
 
 
 ### Toplu Email Gönderme
+
+`Pazarlama > Email Pazarlama > Toplu Email Gönder` butonu ile açılan pencereden email gönderim işlemi yapabilirsiniz. 
+
+- **Pazarlama Adı:** İstediğiniz bir isim girebilirsiniz.
+- **Zamanı:** Gönderileceği tarihi girebilirsiniz.
+- **Etiketler:** Müşteri kartlarına eklemiş olduğunuz etiketleri seçer iseniz sadece o etiketlere sahip müşterilere gönderim yapılacaktır. Hiçbir etiket seçilmez ise tüm müşterilere gönderim yapılır.
+- **Konu Başlığı:** Emailinizin görünecek konu başlığı
+- **İçerik:** Email içeriği
+
+Daha sonra listeden `Görüntüle` butonuna tıklayarak göndermiş olduğunuz toplu sms işleminin durumunu görüntüleyebilirsiniz.
+Dilerseniz `Kopyala` butonu ile aynı pazarlama aktivitesini kopyalayabilirsiniz.
+
+![Email Gönderme](/img/tutorial/email-marketing.png)
